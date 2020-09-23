@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600897214 source:/home/matheus/temp/ws-codeblocks/ArvoreBinariasAtividade/main.cpp
+	<iostream>
+	<stdio.h>
+
